@@ -1,15 +1,4 @@
 <?php
-/*
-Plugin Name: Chase Custom Accordions
-Plugin URI: http://www.pickplugins.com/item/accordions-html-css3-responsive-accordion-grid-for-wordpress/
-Description: Fully responsive and mobile ready accordion grid for WordPress.
-Version: 2.0.22
-Author: pickplugins
-Author URI: http://pickplugins.com
-Text Domain: Chase Custom Accordions
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-*/
 
 if ( ! defined('ABSPATH')) exit;  // if direct access 
 
